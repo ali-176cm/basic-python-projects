@@ -1,3 +1,12 @@
+# 🗺️ City Checker
+
+#A simple Python program to check which country a city belongs to (India, Pakistan, or Bangladesh).
+
+## 💡 Source
+
+#Inspired by [https://github.com/codebasics/py/tree/master/Basics/Exercise].
+
+---
 india = ["mumbai", "banglore", "chennai", "delhi"]
 pakistan = ["lahore","karachi","islamabad"]
 bangladesh=["dhaka","khulna","rangpur"]
@@ -9,6 +18,6 @@ elif Name in pakistan:
 elif Name in bangladesh:
      print("the city",Name,"is in bangladesh")
 else:
-   print(" Based on the little       information I have, I can't tell      in    which country",Name,'is located')
+   print(" Based on the little information I have, I can't tell in which country",Name,'is located')
 
 
