@@ -1,3 +1,11 @@
+# 🏙️ Two Cities Country Checker
+
+#A simple Python program to check if two given cities belong to the same country (India, Pakistan, or Bangladesh).
+
+## 💡 Source
+
+#Inspired by [https://github.com/codebasics/py/tree/master/Basics/Exercise].
+
 india = ["mumbai", "banglore", "chennai", "delhi"]
 pakistan = ["lahore","karachi","islamabad"]
 bangladesh = ["dhaka", "khulna", "rangpur"]
