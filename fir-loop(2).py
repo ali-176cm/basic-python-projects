@@ -1,10 +1,10 @@
 # ⭐ Star Pyramid
 
-A simple Python program to print a star pyramid based on user input.
+#A simple Python program to print a star pyramid based on user input.
 
 ## 💡 Source
 
-Inspired by [https://github.com/codebasics/py/tree/master/Basics/Exercise]
+#Inspired by [https://github.com/codebasics/py/tree/master/Basics/Exercise]
 ---
 lines =int(input('Number of rows you want in the star pyramid: ')) 
 for i in range(1,lines+1):
