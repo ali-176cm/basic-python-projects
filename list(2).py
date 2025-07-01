@@ -1,3 +1,11 @@
+# 🦸‍♂️ Heroes List
+
+#A simple Python program to practice list operations like adding, removing, replacing, and sorting heroes.
+
+## 💡 Source
+
+#Inspired by [your source here].
+
 #1. Length of the list
 #2. Add 'black panther' at the end of this list
 #3. You realize that you need to add 'black panther' after 'hulk',
