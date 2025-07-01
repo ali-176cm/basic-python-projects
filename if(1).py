@@ -6,7 +6,6 @@
 
 #Inspired by [https://github.com/codebasics/py/tree/master/Basics/Exercise].
 
----
 india = ["mumbai", "banglore", "chennai", "delhi"]
 pakistan = ["lahore","karachi","islamabad"]
 bangladesh=["dhaka","khulna","rangpur"]
